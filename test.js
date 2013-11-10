@@ -1,4 +1,4 @@
-function (arg) {
+function test(arg) {
   if (!arg) {
     return;
   }
